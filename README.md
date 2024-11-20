@@ -33,19 +33,12 @@ A **HealthCare platform** for calorie and activity tracking, built with TypeScri
 I’m currently working on:
 - 🔍 **Natural Language Processing (NLP)**, with projects like [summarization_web_service](https://github.com/caiquefrd/summarization_web_service).  
 - ⚙️ Exploring advanced topics in **TypeScript** and **React**.  
-- 🍰 Selling delicious **homemade desserts** (ask me about my **bolo de pote** and **gourmet brigadeiros**!).
-
 ---
 
 ## 📫 Get in Touch
 - 💌 Email: [your-email@example.com](mailto:your-email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/caiquemoura](https://linkedin.com/in/caiquemoura)  
 - 🌐 Portfolio: [caiquemoura.dev](https://caiquemoura.dev) *(Coming Soon)*
-
----
-
-## 🌟 Fun Fact
-I'm not just a coder—I’m also a dessert enthusiast! From **bolo de pote** to **brigadeiros gourmet**, I’m proud to combine my passion for technology with my family's culinary skills. 🍰
 
 ---
 

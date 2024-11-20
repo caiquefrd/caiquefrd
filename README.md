@@ -36,7 +36,7 @@ I’m currently working on:
 ---
 
 ## 📫 Get in Touch
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💌 Email: [your-email@example.com](mailto:caique.fred@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/caiquemoura](https://linkedin.com/in/caiquemoura)  
 - 🌐 Portfolio: [caiquemoura.dev](https://caiquemoura.dev) *(Coming Soon)*
 

@@ -15,6 +15,8 @@ I'm **Caique Moura**, a passionate **Multiplatform Software Development student*
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquefrd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefrd)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌍 Projects
 Here are some of the most notable projects I've worked on:
 

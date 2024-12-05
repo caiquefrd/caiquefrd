@@ -39,7 +39,7 @@ I’m currently working on:
 
 ## 📫 Get in Touch
 - 💌 Email: [caique.fred@outlook.com](mailto:caique.fred@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/caiquemoura](https://linkedin.com/in/caiquemoura)  
+- 💼 LinkedIn: [linkedin.com/in/caiquemoura](https://linkedin.com/in/caique-moura)  
 - 🌐 Portfolio: [caiquemoura.dev](https://caiquemoura.dev) *(Coming Soon)*
 
 ---

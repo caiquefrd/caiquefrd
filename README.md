@@ -26,7 +26,7 @@ A **HealthCare platform** for calorie and activity tracking, built with TypeScri
 ### 📊 [VisionaDashboards](https://github.com/caiquefrd/ABP-2-Semestre-Documentacao.git)
 A **project management platform** using TypeScript, React, and PostgreSQL.
 
-### 📝 [CandagoScrum](https://github.com/caiquefrd/candago-scrum)
+### 📝 [CandagoScrum](https://github.com/l-gustavo-barbosa/candagoScrum.git)
 A platform for learning **Scrum**, built with JavaScript, HTML/CSS, and Bootstrap.
 
 ---

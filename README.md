@@ -23,7 +23,7 @@ Here are some of the most notable projects I've worked on:
 ### 💪 [GejUp](https://github.com/caiquefrd/abp_3_semestre_documentacao)
 A **HealthCare platform** for calorie and activity tracking, built with TypeScript, React, and MongoDB.
 
-### 📊 [VisionaDashboards](https://github.com/caiquefrd/visiona-dashboards)
+### 📊 [VisionaDashboards](https://github.com/caiquefrd/ABP-2-Semestre-Documentacao.git)
 A **project management platform** using TypeScript, React, and PostgreSQL.
 
 ### 📝 [CandagoScrum](https://github.com/caiquefrd/candago-scrum)

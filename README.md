@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
-I'm **Caique Moura**, a passionate **Multiplatform Software Development student** at [Fatec Jacareí](https://fatecjacarei.cps.sp.gov.br/), with graduation expected in **June 2026**. I specialize in **TypeScript**, **Python**, **Java**, **React**, and more, and have over a year of experience in software development, including **Natural Language Processing (NLP)** projects from my time at INPE.
+I'm **Caique Moura**, a passionate **Multiplatform Software Development student** at [Fatec Jacareí](https://fatecjacarei.cps.sp.gov.br/), with graduation expected in **June 2026**. I specialize in **TypeScript**, **Python**, **Java**, **React**, and more, and have  2 years of experience in software development, including **Natural Language Processing (NLP)** projects from my time at INPE.
 
 ---
 

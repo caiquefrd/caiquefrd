@@ -1,59 +1,84 @@
-# 👋 Hey there! Welcome to My GitHub
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there! I'm Caique Moura</h1>
+<p align="center">
+  🎓 Multiplatform Software Development Student at <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec Jacareí</a>  
+  <br>💻 Full-Stack Developer | 🔍 NLP Enthusiast | 🌎 Lifelong Learner
+</p>
 
-I'm **Caique Moura**, a passionate **Multiplatform Software Development** student at [Fatec Jacareí](https://fatecjacarei.cps.sp.gov.br/), graduating in **June 2026**. I have over **2 years of experience** in software development, with a strong focus on **TypeScript**, **React**, **Python**, and **Java**. My journey also includes working on **Natural Language Processing (NLP)** projects during my time at INPE.
-
----
-
-## 🌟 About Me
-
-- 🎓 **Education**: Multiplatform Software Development @ Fatec Jacareí  
-- 💼 **Experience**: 2+ years in full-stack development  
-- 🌐 **Languages**: Portuguese (Native), English (Advanced)  
-- 🧠 **Key Skills**:  
-  - **Frontend**: React, Material-UI, Vite  
-  - **Backend**: Node.js, Express, MongoDB, PostgreSQL  
-  - **Other**: Scrum, Git & GitHub, Agile, Project Management  
-
----
-
-## 🚀 Current Focus
-
-- 🔍 Advancing in **Natural Language Processing (NLP)** — working on projects like a text summarization service  
-- ⚙️ Deepening expertise in **TypeScript**, **Java**, and **React**
-
----
-
-## 🌍 Featured Projects
-
-Here are a few projects I'm proud of:
-
-### 💪 [GejUp](https://github.com/caiquefrd/abp_3_semestre_documentacao)  
-A **healthcare platform** for calorie and activity tracking, built with TypeScript, React, and MongoDB.
-
-### 📊 [VisionaDashboards](https://github.com/caiquefrd/ABP-2-Semestre-Documentacao.git)  
-A **project management tool** using TypeScript, React, and PostgreSQL.
-
-### 📝 [CandagoScrum](https://github.com/l-gustavo-barbosa/candagoScrum.git)  
-A web platform for learning **Scrum**, built with JavaScript, HTML/CSS, and Bootstrap.
-
----
-
-## 📈 GitHub Stats
-
-<p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquefrd&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefrd&hide=html&layout=compact&theme=radical"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caiquefrd&style=flat-square&color=blue" alt="Profile views" />
+  <a href="mailto:caique.fred@outlook.com"><img src="https://img.shields.io/badge/email-contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/caique-moura"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://caiquefrd.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=githubpages" alt="Portfolio"></a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧠 About Me
 
-- 💌 Email: [caique.fred@outlook.com](mailto:caique.fred@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/caiquemoura](https://linkedin.com/in/caique-moura)  
-- 🌐 Portfolio: [caiquemoura.dev](https://caiquefrd.github.io/portfolio/)
+- 🎓 **Education**: Fatec Jacareí (Graduating June 2026)  
+- 💼 **Experience**: 2+ years in full-stack development  
+- 💬 **Languages**: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced)  
+- ⚒️ **Tech Stack**:  
+  - **Frontend**: React, Vite, Material-UI  
+  - **Backend**: Node.js, Express, PostgreSQL, MongoDB  
+  - **Others**: Git, GitHub, Scrum, Agile, Docker, Project Management  
+- 🧪 **Research**: NLP Projects @ INPE (Natural Language Processing, Text Summarization)
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and reach out — I'm always open to collaborating and learning together.*  
-👉 **[Browse My Projects](https://github.com/caiquefrd?tab=repositories)**
+## 🚀 What I'm Working On
+
+- 🤖 Building and fine-tuning **NLP models**
+- 🧩 Improving my proficiency in **TypeScript**, **Python**, and **Java**
+- 💡 Experimenting with **AI/ML APIs** and text analytics
+- 📚 Learning more about **Clean Architecture** and **Design Patterns**
+
+---
+
+## 🏆 Featured Projects
+
+✨ A few things I’ve built that I’m proud of:
+
+### 🔹 [GejUp](https://github.com/caiquefrd/abp_3_semestre_documentacao)  
+> A **healthcare platform** to track calories and physical activity.  
+> `React` · `TypeScript` · `MongoDB` · `Node.js`
+
+### 🔹 [VisionaDashboards](https://github.com/caiquefrd/ABP-2-Semestre-Documentacao.git)  
+> A **dashboard system** for project and team management.  
+> `React` · `PostgreSQL` · `Express`
+
+### 🔹 [CandagoScrum](https://github.com/l-gustavo-barbosa/candagoScrum.git)  
+> A learning tool to understand **Scrum methodology** interactively.  
+> `HTML/CSS` · `JavaScript` · `Bootstrap`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquefrd&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefrd&hide=html,css,ejs&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 📧 **Email**: [caique.fred@outlook.com](mailto:caique.fred@outlook.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/caique-moura](https://linkedin.com/in/caique-moura)  
+- 🌐 **Portfolio**: [caiquemoura.dev](https://caiquefrd.github.io/portfolio/)
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile!  
+  <br>
+  👇 Check out more of my work below
+</p>
+
+<p align="center">
+  <a href="https://github.com/caiquefrd?tab=repositories">
+    <img src="https://img.shields.io/badge/-Browse%20My%20Projects-blueviolet?style=for-the-badge&logo=github" alt="Browse Repositories">
+  </a>
+</p>

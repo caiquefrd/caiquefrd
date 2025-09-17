@@ -57,7 +57,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquefrd&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquefrd&hide=html,css,ejs&layout=compact&theme=radical&hide_border=true"/>
 </p>
 

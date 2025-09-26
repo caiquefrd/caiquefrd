@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=caiquefrd&style=flat-square&color=blue" alt="Profile views" />
   <a href="mailto:caique.fred@outlook.com"><img src="https://img.shields.io/badge/email-contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://linkedin.com/in/caique-moura"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://caiquefrd.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=githubpages" alt="Portfolio"></a>
+  <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323005/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=githubpages" alt="Portfolio"></a>
 </p>
 
 ---

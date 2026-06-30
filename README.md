@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education**: Fatec Jacareí (Graduating June 2026)  
+- 🎓 **Education**: Fatec Jacareí (Graduated June 2026)  
 - 💼 **Experience**: 2+ years in full-stack development  
 - 💬 **Languages**: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced)  
 - ⚒️ **Tech Stack**:  

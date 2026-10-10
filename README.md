@@ -22,7 +22,7 @@
   - **Frontend**: React, Vite, Material-UI  
   - **Backend**: Node.js, Express, PostgreSQL, MongoDB  
   - **Others**: Git, GitHub, Scrum, Agile, Docker, Project Management  
-- 🧪 **Research**: NLP Projects @ INPE (Natural Language Processing, Text Summarization)
+- 🧪 **Research**: NLP Projects @ INPE
 
 ---
 
@@ -39,17 +39,9 @@
 
 ✨ A few things I’ve built that I’m proud of:
 
-### 🔹 [GejUp](https://github.com/caiquefrd/abp_3_semestre_documentacao)  
-> A **healthcare platform** to track calories and physical activity.  
-> `React` · `TypeScript` · `MongoDB` · `Node.js`
-
-### 🔹 [VisionaDashboards](https://github.com/caiquefrd/ABP-2-Semestre-Documentacao.git)  
-> A **dashboard system** for project and team management.  
-> `React` · `PostgreSQL` · `Express`
-
-### 🔹 [CandagoScrum](https://github.com/l-gustavo-barbosa/candagoScrum.git)  
-> A learning tool to understand **Scrum methodology** interactively.  
-> `HTML/CSS` · `JavaScript` · `Bootstrap`
+### 🔹 [ProconBOT](https://github.com/candago-6/documentacao)  
+> A **user chatbot** to handle city people issues.  
+> `LLM` · `Distilbert` · `NLP` · `AI`
 
 ---
 

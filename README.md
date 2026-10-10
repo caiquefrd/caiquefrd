@@ -1,8 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there! I'm Caique Moura</h1>
 <p align="center">
-  🎓 Multiplatform Software Development Student at <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec Jacareí</a>  
-  <br>💻 Full-Stack Developer | 🔍 NLP Enthusiast | 🌎 Lifelong Learner
+  <br>💻 AI Engineer and Reseacher
 </p>
 
 <p align="center">

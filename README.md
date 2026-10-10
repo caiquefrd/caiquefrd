@@ -42,6 +42,10 @@
 ### 🔹 [ProconBOT](https://github.com/candago-6/documentacao)  
 > A **user chatbot** to handle city people issues.  
 > `LLM` · `Distilbert` · `NLP` · `AI`
+>
+### 🔹 [DogSpotter](https://github.com/orgs/candago-5/repositories)  
+> A **Dog Finder** App to search for missing dogs.  
+> `Machine Learning` · `Fine Tuning` · `Computational Vision` · `AI`
 
 ---
 

@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caiquefrd&style=flat-square&color=blue" alt="Profile views" />
   <a href="mailto:caique.fred@outlook.com"><img src="https://img.shields.io/badge/email-contact-blue?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://linkedin.com/in/caique-moura"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323005/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=githubpages" alt="Portfolio"></a>
@@ -19,9 +18,8 @@
 - 💼 **Experience**: 2+ years in full-stack development  
 - 💬 **Languages**: Portuguese 🇧🇷 (Native), English 🇺🇸 (Advanced)  
 - ⚒️ **Tech Stack**:  
-  - **Frontend**: React, Vite, Material-UI  
-  - **Backend**: Node.js, Express, PostgreSQL, MongoDB  
-  - **Others**: Git, GitHub, Scrum, Agile, Docker, Project Management  
+  - **Backend**: PostgreSQL, MongoDB, Python, Java, Micro-Services, POO
+  - **Others**: Git, GitHub, Scrum, Agile, Docker, Fine-Tuning, RAG
 - 🧪 **Research**: NLP Projects @ INPE
 
 ---
@@ -29,7 +27,7 @@
 ## 🚀 What I'm Working On
 
 - 🤖 Building and fine-tuning **NLP models**
-- 🧩 Improving my proficiency in **TypeScript**, **Python**, and **Java**
+- 🧩 Improving my proficiency in **Python**, and **Java**
 - 💡 Experimenting with **AI/ML APIs** and text analytics
 - 📚 Learning more about **Clean Architecture** and **Design Patterns**
 
